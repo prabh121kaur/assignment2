@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\assign2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{570287A5-4B06-4E1D-A528-8046271FC232}|assign2.csproj|c:\\users\\user\\source\\repos\\assign2\\controllers\\distinctsubstringscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570287A5-4B06-4E1D-A528-8046271FC232}|assign2.csproj|solutionrelative:controllers\\distinctsubstringscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570287A5-4B06-4E1D-A528-8046271FC232}|assign2.csproj|c:\\users\\user\\source\\repos\\assign2\\controllers\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570287A5-4B06-4E1D-A528-8046271FC232}|assign2.csproj|solutionrelative:controllers\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570287A5-4B06-4E1D-A528-8046271FC232}|assign2.csproj|c:\\users\\user\\source\\repos\\assign2\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570287A5-4B06-4E1D-A528-8046271FC232}|assign2.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DistinctSubstringsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign2\\Controllers\\DistinctSubstringsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DistinctSubstringsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign2\\Controllers\\DistinctSubstringsController.cs",
+              "RelativeToolTip": "Controllers\\DistinctSubstringsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:30:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "diceController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign2\\Controllers\\diceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\diceController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign2\\Controllers\\diceController.cs",
+              "RelativeToolTip": "Controllers\\diceController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:28:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign2\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign2\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:08:24.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
